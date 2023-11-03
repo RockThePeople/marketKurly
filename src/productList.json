@@ -1,0 +1,281 @@
+[
+    {
+        "id": 1,
+        "Event" : "HOT",
+        "HCategory" : "soup_side",
+        "LCategory" : "mealkit",
+        "info": {
+            "brand": "이연복의 목란",
+            "name": "짬뽕 2인분 (맵기선택)",
+            "price": 13500,
+            "discountRate": 8,
+            "imageURL": "https://product-image.kurly.com/product/image/786d158d-4a7b-4cba-8899-1cd27ab53088.jpg",
+            "Comments" : {
+                "1" : "맛있어요",
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "Event" : "HOT",
+        "HCategory" : "soup_side",
+        "LCategory" : "mealkit",
+        "info": {
+            "brand": "강남면옥",
+            "name": "갈비탕",
+            "price": 11900,
+            "discountRate": "",
+            "imageURL": "https://product-image.kurly.com/product/image/a2880469-82a4-46ee-b0d8-1ec47a05b5ed.jpeg",
+            "Comments" : {
+                "1" : "맛있어요",
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요",
+                "4" : "재구매 의사 있어요",
+                "5" : "재구매 의사 있어요"
+            }
+            
+        }
+    },
+    {
+        "id": 3,
+        "Event" : "HOT",
+        "HCategory" : "meat_egg",
+        "LCategory" : "fork",
+        "info": {
+            "brand": "하이포크",
+            "name": "한돈 급냉 삼겹살 500g",
+            "price": 15300,
+            "discountRate": 10,
+            "imageURL": "https://product-image.kurly.com/product/image/95a33a48-a620-447e-b597-7cbe875dbded.jpg",
+            "Comments" : {
+                "1" : "맛있어요",
+                "2" : "괜찮게 먹었습니다"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "Event" : "HOT",
+        "HCategory" : "simple_salad",
+        "LCategory" : "",
+        "info": {
+            "brand": "고메공방",
+            "name": "대구식 납작만두 300g (15g x 20입)",
+            "price": 4400,
+            "discountRate": 5,
+            "imageURL": "https://img-cf.kurly.com/shop/data/goods/1637301571627l0.jpg",
+            "Comments" : {
+                "1" : "맛있어요",
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "Event" : "HOT",
+        "HCategory" : "meat_egg",
+        "LCategory" : "chicken",
+        "info": {
+            "brand": "자연실록",
+            "name": "무항생제 닭 다리살 (정육) 500g",
+            "price": 9790,
+            "discountRate": 9,
+            "imageURL": "https://img-cf.kurly.com/shop/data/goods/163842816248l0.jpg",
+            "Comments" : {
+                "1" : "맛있어요",
+                "2" : "괜찮게 먹었습니다"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "Event" : "HOT",
+        "HCategory" : "beverage",
+        "LCategory" : "coffee",
+        "info": {
+            "brand": "할리스",
+            "name": "바로마시는 아메리카노 (RTD) 1L",
+            "price": 4100,
+            "discountRate": 20,
+            "imageURL": "https://product-image.kurly.com/product/image/031069d2-45ed-4a34-9de5-5ad031fb5baa.jpg",
+            "Comments" : {
+
+            }
+        }
+    },
+    {
+        "id": 7,
+        "Event" : "HOT",
+        "HCategory" : "meat_egg",
+        "LCategory" : "beaf",
+        "info": {
+            "brand": "사미헌",
+            "name": "LA갈비",
+            "price": 23000,
+            "discountRate": 10,
+            "imageURL": "https://img-cf.kurly.com/shop/data/goods/1606451469534l0.jpg",
+            "Comments" : {
+                "1" : "맛있어요",
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요",
+                "4" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "Event" : "HOT",
+        "HCategory" : "soup_side",
+        "LCategory" : "mealkit",
+        "info": {
+            "brand": "피코크",
+            "name": "금돼지식당 김치찌개",
+            "price": 5980,
+            "discountRate": 7,
+            "imageURL": "https://img-cf.kurly.com/shop/data/goods/1646976018227l0.jpg",
+            "Comments" : {
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "Event" : "Beauty",
+        "HCategory" : "facial",
+        "LCategory" : "ample_pad",
+        "info": {
+            "brand": "셀리맥스",
+            "name": "어성초 바하 지우개 필링패드",
+            "price": 17000,
+            "discountRate": 41,
+            "imageURL": "https://product-image.kurly.com/product/image/bce990c1-b177-4231-8be3-b3f575167d9b.jpg",
+            "Comments" : {
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "Event" : "Beauty",
+        "HCategory" : "hair_body",
+        "LCategory" : "shampoo",
+        "info": {
+            "brand": "LOMA",
+            "name": "너리싱 샴푸&컨디셔너",
+            "price": 34000,
+            "discountRate": 20,
+            "imageURL": "https://product-image.kurly.com/product/image/9d319946-b808-47c6-b659-f4537776507c.jpg",
+            "Comments" : {
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 11,
+        "Event" : "Beauty",
+        "HCategory" : "hair_body",
+        "LCategory" : "oral",
+        "info": {
+            "brand": "투스노트",
+            "name": "미백치약/가글/화이트닝겔/치실 5종 (택1)",
+            "price": 40000,
+            "discountRate": 65,
+            "imageURL": "https://product-image.kurly.com/product/image/0d47544b-362a-4d0c-8da7-16e615f6ab95.jpg",
+            "Comments" : {
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 12,
+        "Event" : "Beauty",
+        "HCategory" : "facial",
+        "LCategory" : "makeup",
+        "info": {
+            "brand": "헤라",
+            "name": "블랙 쿠션 (리필포함) 6종 (택1)",
+            "price": 66000,
+            "discountRate": 10,
+            "imageURL": "https://product-image.kurly.com/product/image/7ca3a6a6-d572-497c-8978-73b22ad5fad2.jpg",
+            "Comments" : {
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 13,
+        "Event" : "Beauty",
+        "HCategory" : "facial",
+        "LCategory" : "cream_oil",
+        "info": {
+            "brand": "설화수",
+            "name": "탄력 3종 세트",
+            "price": 190000,
+            "discountRate": 20,
+            "imageURL": "https://product-image.kurly.com/product/image/9ec730ed-c433-44cd-93d9-891b87d8e4df.jpg",
+            "Comments" : {
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "Event" : "Beauty",
+        "HCategory" : "facial",
+        "LCategory" : "ample_pad",
+        "info": {
+            "brand": "프란츠",
+            "name": "줄기세포 배양액 앰플 4종",
+            "price": 10000,
+            "discountRate": 40,
+            "imageURL": "https://product-image.kurly.com/product/image/f4959107-3c75-4c8b-a5d5-8464a71ea933.jpg",
+            "Comments" : {
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 15,
+        "Event" : "Beauty",
+        "HCategory" : "facial",
+        "LCategory" : "ample_pad",
+        "info": {
+            "brand": "스킨푸드",
+            "name": "[스킨푸드] 캐롯 카로틴 카밍 워터 패드 250g (60매)",
+            "price": 26000,
+            "discountRate": 33,
+            "imageURL": "https://product-image.kurly.com/product/image/9518e927-8441-4e69-8299-d23c371ab40e.jpg",
+            "Comments" : {
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    },
+    {
+        "id": 16,
+        "Event" : "Beauty",
+        "HCategory" : "facial",
+        "LCategory" : "makeup",
+        "info": {
+            "brand": "아베다",
+            "name": "우든 패들 브러쉬",
+            "price": 43000,
+            "discountRate": 15,
+            "imageURL": "https://product-image.kurly.com/product/image/4240e87c-f71d-43a6-94a0-4976fba62e66.jpg",
+            "Comments" : {
+                "2" : "괜찮게 먹었습니다",
+                "3" : "재구매 의사 있어요"
+            }
+        }
+    }
+]

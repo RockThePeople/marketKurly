@@ -1,0 +1,38 @@
+h1 {
+    font-weight: 650;
+    text-align: center;
+}
+
+.Container {
+    width: fit-content;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    list-style: none; 
+    transition: 0.5s ease;
+}
+
+.Good {
+    margin-right: 18px;
+}
+
+.NextBtn{
+    font-size: 30px;
+    min-width: 60px;
+    height: 60px;
+    z-index: 999;
+    margin: 120px 0 0 -50px;
+    border-radius: 50%;
+    border: none;
+}
+
+.PrevBtn{
+    font-size: 30px;
+    min-width: 60px;
+    height: 60px;
+    margin-right: 18px;
+    z-index: 999;
+    margin: 120px -30px 0 0 ;
+    border-radius: 50%;
+    border: none;
+}

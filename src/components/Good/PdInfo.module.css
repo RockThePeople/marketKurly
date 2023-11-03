@@ -1,0 +1,11 @@
+.container {
+    height: fit-content;
+}
+
+.a {
+    font-size: 19px;
+    font-weight: 400;
+    text-align: left;
+    padding: 0px;
+    margin: 10px 0 0 0;
+}

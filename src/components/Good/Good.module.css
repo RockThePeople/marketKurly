@@ -1,0 +1,7 @@
+.Container {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin-right: 10px;
+    max-height: 499px;
+}
